@@ -15,6 +15,7 @@ function Navbar() {
         <div className="qHeader_icon"></div>
         <div className="qHeader_icon"></div>
         <div className="qHeader_icon"></div>
+        <div className="qHeader_icon"></div>
       </div>
     </div>
   );
